@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/MoriTomo7315/proglog/internal/server"
+	"github.com/MoriTomo7315/go_distribute_oreilly/proglog/internal/server"
 )
 
 func main() {
